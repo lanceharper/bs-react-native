@@ -115,7 +115,7 @@ let styles =
 <View style=styles##wrapper />;
 ```
 
-## Toubleshooting
+## Troubleshooting
 
 ### `Native module cannot be null` with create-react-native-app
 
